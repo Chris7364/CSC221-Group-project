@@ -1,5 +1,5 @@
-# CSC221-Group-project
-group project for CSC221
+# CSC221-Chris7364_Grouproject
+group project for CSC221 2022 sp
 
 _owner:_ Chris Meehan (cameehan@my.waketech.edu)
 
