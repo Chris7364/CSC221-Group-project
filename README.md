@@ -5,6 +5,6 @@ _owner:_ Chris Meehan (cameehan@my.waketech.edu)
 
 _project_ description:_Web scrapping project
 
-_webscraped URL:_ 
+_webscraped URL:_ https://en.wikipedia.org/wiki/Wookieepedia
 
-_Collaborator:_ Anthony Cella (apcella@my.waketech.edu) 
+_Collaborator:_ Anthony Cella (cella242@gmail.com) 
