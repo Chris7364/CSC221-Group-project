@@ -3,8 +3,8 @@ group project for CSC221 2022 sp
 
 _owner:_ Chris Meehan (cameehan@my.waketech.edu)
 
-_project_ description:_Web scrapping project
+_project_ description:_Web scrapping project that will find the highest grossing sci-fi films according to Rank, Film, World Gross and the Year.
 
-_webscraped URL:_ https://en.wikipedia.org/wiki/Wookieepedia
+_webscraped URL:_ https://en.wikipedia.org/wiki/List_of_highest-grossing_science_fiction_films
 
 _Collaborator:_ Anthony Cella (cella242@gmail.com) 
