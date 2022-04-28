@@ -7,4 +7,4 @@ _project_ _description:_ Web scrapping project that will find the highest grossi
 
 _webscraped URL:_ https://en.wikipedia.org/wiki/List_of_highest-grossing_science_fiction_films
 
-_Collaborator:_ Anthony Cella (cella242@gmail.com) 
+_Collaborator:_ Self (cameehan@my.waketech.edu) 
